@@ -1,0 +1,7 @@
+C:\Repos\mythera\Reversi\bin\Debug\Reversi.exe.config
+C:\Repos\mythera\Reversi\bin\Debug\Reversi.exe
+C:\Repos\mythera\Reversi\bin\Debug\Reversi.pdb
+C:\Repos\mythera\Reversi\obj\Debug\Reversi.csproj.CoreCompileInputs.cache
+C:\Repos\mythera\Reversi\obj\Debug\Reversi.exe
+C:\Repos\mythera\Reversi\obj\Debug\Reversi.pdb
+C:\Repos\mythera\Reversi\obj\Debug\Reversi.csprojResolveAssemblyReference.cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillsGraph", "SkillsGraph\SkillsGraph.csproj", "{17AE2BF2-1690-4FF2-9C5A-B64C41F734A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkilGraph.Tests", "SkilGraph.Tests\SkilGraph.Tests.csproj", "{1038D1E7-48C3-4745-A582-8ECC80934916}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reversi", "Reversi\Reversi.csproj", "{5F2D1E9B-4FFB-42CB-97BC-0C8074EC0159}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17AE2BF2-1690-4FF2-9C5A-B64C41F734A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17AE2BF2-1690-4FF2-9C5A-B64C41F734A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17AE2BF2-1690-4FF2-9C5A-B64C41F734A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17AE2BF2-1690-4FF2-9C5A-B64C41F734A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1038D1E7-48C3-4745-A582-8ECC80934916}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1038D1E7-48C3-4745-A582-8ECC80934916}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1038D1E7-48C3-4745-A582-8ECC80934916}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1038D1E7-48C3-4745-A582-8ECC80934916}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F2D1E9B-4FFB-42CB-97BC-0C8074EC0159}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F2D1E9B-4FFB-42CB-97BC-0C8074EC0159}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F2D1E9B-4FFB-42CB-97BC-0C8074EC0159}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F2D1E9B-4FFB-42CB-97BC-0C8074EC0159}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

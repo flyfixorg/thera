@@ -1,0 +1,7 @@
+C:\Repos\mythera\SkillsGraph\bin\Debug\Skills.exe.config
+C:\Repos\mythera\SkillsGraph\bin\Debug\Skills.exe
+C:\Repos\mythera\SkillsGraph\bin\Debug\Skills.pdb
+C:\Repos\mythera\SkillsGraph\obj\Debug\SkillsGraph.csproj.CoreCompileInputs.cache
+C:\Repos\mythera\SkillsGraph\obj\Debug\Skills.exe
+C:\Repos\mythera\SkillsGraph\obj\Debug\Skills.pdb
+C:\Repos\mythera\SkillsGraph\obj\Debug\SkillsGraph.csprojResolveAssemblyReference.cache
